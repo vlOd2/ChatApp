@@ -1,0 +1,13 @@
+.chat-input {
+    display: flex;
+    margin: 1em;
+    margin-top: 0;
+}
+
+.chat-input input[type="text"] {
+    flex-grow: 1;
+    font-family: monospace;
+    font-size: 14px;
+    padding: 0.5em;
+    margin-right: 0.5em;
+}

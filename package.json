@@ -1,0 +1,39 @@
+{
+    "name": "launcher",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "@babel/preset-env": "^7.28.5",
+        "@babel/standalone": "^7.28.5",
+        "@eslint/js": "^9.39.2",
+        "@types/node": "^25.0.3",
+        "@types/react": "^17.0.90",
+        "@types/react-dom": "^17.0.26",
+        "cheerio": "^1.1.2",
+        "core-js": "^3.47.0",
+        "esbuild": "^0.27.2",
+        "eslint": "^9.39.2",
+        "globals": "^16.5.0",
+        "html-minifier-next": "^4.15.2",
+        "prettier": "^3.7.4",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "typescript": "^5.9.3",
+        "whatwg-fetch": "^3.6.20"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all",
+            "ie 11"
+        ]
+    }
+}

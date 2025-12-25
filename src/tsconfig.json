@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "allowJs": true,
+        "checkJs": true,
+        "lib": ["ES5", "DOM"],
+        "target": "es5",
+        "module": "commonjs",
+        "isolatedModules": true,
+        "jsx": "react-jsx"
+        // Preact
+        // "jsx": "react"
+        // "jsxFactory": "h",
+        // "jsxFragmentFactory": "Fragment"
+    }
+}
